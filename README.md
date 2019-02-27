@@ -1,6 +1,6 @@
 # prestigePractice
 
-
+Chris Varela - First commit to master.
 
 /Michael Diaz - First Commit!
 
@@ -9,4 +9,9 @@
 Chris Miller - fist commit to master
 
 
+
 Michael - My First commit to the feature branch
+
+Chris V, New commit on feature.
+
+
